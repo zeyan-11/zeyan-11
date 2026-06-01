@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Li Zeyan from HZAU(HuaZhong Agriculture University Wuhan China)
+- 👋 Hi, I’m Li Zeyan 
 - 👀 I’m interested in statistical genetics and genomic selection
-- 🌱 I’m currently learning programming
 - 💞️ I love three things in the world. The sun,The moon and You.
-- 📫 Twitter：Zeyan Li2004 Email：1828970026@qq.com
+- 📫 Twitter：Zeyan Li2004 
 - 😄 Pronouns: sunny
 
 <!---
